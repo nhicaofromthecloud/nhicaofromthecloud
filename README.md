@@ -9,7 +9,7 @@ As a computer and information system student with a rich background in both libe
 
 🌻 Eager to collaborate on projects that leverage technology for social good, where I can merge my diverse skill set for meaningful impact
 
-🏋️‍♀️ Beyond tech, I am a CrossFit enthusiast and a lover of the outdoors 🏞️
+🏋️‍♀️ Beyond tech, I am a CrossFit enthusiast and a lover of the outdoors, pursuits that keep me energized and inspired in both my personal and professional life. 🏞️
 
 <h2 align="center">Languages and Tools</h2>
 <p align="left">
