@@ -1,15 +1,15 @@
 <h1 align="center">Hi, my name is Nhi 🐄! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhicaofromthecloud&label=Profile%20views&color=green&abbreviated=true&style=flat" alt="nhicaofromthecloud stats" /> </p>
 
-I'm a Frontend Engineer with exceptional communication skills, weaving together my liberal arts background with my growing technical expertise. My journey into tech was sparked by Kai-Fu Lee's insightful books, _AI Superpowers_ and _AI 2041_, which opened my eyes to the transformative power of AI and technology.
+As a computer and information system student with a rich background in both liberal arts and business, I bring a unique, imaginative perspective to the world of technology. My exceptional communication skills and business acumen complement my growing technical expertise, allowing me to craft valuable, user-centric solutions.
 
-👩🏻‍💻 Developing innovative solutions with Microsoft Power Platform at Lecor, aiming to streamline processes and improve efficiency
+👩🏻‍💻 Developing strategic solutions with Microsoft Power Platform at Lecor, aiming to streamline processes and improve efficiency
 
-📑 Diving deep into Machine Learning and Artificial Intelligence.
+📑 Diving deep into Machine Learning and Artificial Intelligence, keen on understanding their transformative impact in various sectors
 
-🌻 Eager to collaborate on projects that leverage technology for social good. 
+🌻 Eager to collaborate on projects that leverage technology for social good, where I can merge my diverse skill set for meaningful impact
 
-🏋️‍♀️ Aside from being a CrossFit enthusiast, I'm deeply interested in the impact of AI on society
+🏋️‍♀️ Beyond tech, I am a CrossFit enthusiast and a lover of the outdoors 🏞️
 
 <h2 align="center">Languages and Tools</h2>
 <p align="left">
