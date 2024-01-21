@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Nhi 🐄! </h1>
+<h1 align="center"> 👋 Hi, my name is Nhi ! 🐄 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhicaofromthecloud&label=Profile%20views&color=green&abbreviated=true&style=flat" alt="nhicaofromthecloud stats" /> </p>
 
 As a computer and information system student with a rich background in both liberal arts and business, I bring a unique, imaginative perspective to the world of technology. My exceptional communication skills and business acumen complement my growing technical expertise, allowing me to craft valuable, user-centric solutions.
