@@ -91,7 +91,7 @@ As a computer and information system student with a rich background in both libe
 
 
 
-<h2 align="center">Live Projects</h2>
+<h2 align="center">Projects</h2>
 💅 <a href="https://pearl-frontend-seven.vercel.app/home"><strong>Pearl</strong></a>: An on-demand beauty services platform built on the MERN stack.
 
 
